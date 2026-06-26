@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+myvenv/
+
+# Django
+db.sqlite3
+media/
+
+# Environment variables
+.env
+
+# ML models
+*.pkl
+*.joblib
+*.h5
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
